@@ -9,6 +9,6 @@
 
 ## 📫 How to Reach Me
 
-- GitHub: [SarveshMohite]((https://github.com/Sarvesh-Mohite))
+- GitHub: [SarveshMohite](https://github.com/Sarvesh-Mohite)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sarveshm20/)
 - Email: mohite.sarvesh20@gmail.com
