@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh Mohite
 
-<!--
-**Sarvesh-Mohite/Sarvesh-Mohite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 I'm passionate about AI, Full Stack Development, and learning new technologies
+- 🌱 I'm currently learning ReactJS, Python, SQL, and Backend Development
+- 💪 I enjoy solving coding problems and building real-world projects
+- 💻 I like creating web applications and AI-based projects
+- 🎯 My goal is to become a Full Stack Developer and contribute to impactful projects
+- 🚀 Always learning and improving my skills
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [SarveshMohite](https://github.com/SarveshMohite)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sarveshm20/)
+- Email: mohite.sarvesh20@gmail.com
